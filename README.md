@@ -1,6 +1,8 @@
 # TimeScrolls
 
 A modern React application for visualizing and managing time zones.
+This is a copy of a project I did a while ago with my own brain and my own two hands. 
+On this copy I am going to test multiple vibecoding techniques just to see what's all the noise about.
 
 ## Getting Started
 
